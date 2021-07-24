@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/bankofquestion_fix/BuildConfig.java
+ com.example.bankofquestion_fix.BuildConfig
+com/example/bankofquestion_fix/MainActivity.java
+ com.example.bankofquestion_fix.MainActivity
